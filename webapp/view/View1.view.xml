@@ -18,7 +18,7 @@
                                 placeholder="{i18n>inDesc}">
                             </Input>
 
-                            <Button text="{i18n>btnHello}" id="btnHello" press="OnPress"/>
+                            <Button text="{i18n>btnHello}" id="btnHello" press="OnPress" />
                         </l:VerticalLayout>
                     </content>
                 </Page>
